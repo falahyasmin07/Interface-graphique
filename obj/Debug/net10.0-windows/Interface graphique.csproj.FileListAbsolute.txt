@@ -1,0 +1,16 @@
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\bin\Debug\net10.0-windows\Interface graphique.exe
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\bin\Debug\net10.0-windows\Interface graphique.deps.json
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\bin\Debug\net10.0-windows\Interface graphique.runtimeconfig.json
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\bin\Debug\net10.0-windows\Interface graphique.dll
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\bin\Debug\net10.0-windows\Interface graphique.pdb
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface_graphique.Form1.resources
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.csproj.GenerateResource.cache
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.AssemblyInfoInputs.cache
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.AssemblyInfo.cs
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.csproj.CoreCompileInputs.cache
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.dll
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\refint\Interface graphique.dll
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.pdb
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.genruntimeconfig.cache
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\ref\Interface graphique.dll
