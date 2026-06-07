@@ -14,3 +14,4 @@ C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\ne
 C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.pdb
 C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.genruntimeconfig.cache
 C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\ref\Interface graphique.dll
+C:\Users\falah\source\repos\Interface graphique\Interface graphique\obj\Debug\net10.0-windows\Interface graphique.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Interface graphique")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c05cc75ebb551b154cbb74aa264897fe514e7dad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Interface graphique")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Interface graphique")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
